@@ -25,7 +25,7 @@ subprocess.call(['git', 'commit', '-m', 'GitUpload.py'])
 remote_url = 'https://github.com/philipmatusiak/CopilotClass1.git'
 subprocess.call(['git', 'remote', 'add', 'origin', remote_url])
 # Push the changes to the remote repository
-subprocess.call(['git', 'push', '-u', 'origin', 'outputs'])
+subprocess.call(['git', 'push', '-u', 'origin', 'master'])
 
 # Print Complete
 print("Complete")
