@@ -14,4 +14,5 @@ Each of these steps for video learning, individual modules.
 6. Install CoPilot Extension into VS Code and authorize an app.
 7. Configure Github to save your files.
 
-7. Ready to go with adding a comment and learning how to use CoPilot.
+8. Ready to go with adding a comment and learning how to use CoPilot.
+   Create a simple web app with 2 fields and save the data.  
