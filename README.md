@@ -18,4 +18,8 @@ Each of these steps for video learning, individual modules.
 9. Configure Github to save your files.
 
 8. Ready to go with adding a comment and learning how to use CoPilot.
-   Create a simple web app with 2 fields and save the data.  
+   Create a simple web app with 2 fields and save the data. 
+   
+Lead decide the new points and delegate.
+Development...
+> Recording the video...
