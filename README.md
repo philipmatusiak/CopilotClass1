@@ -1,9 +1,8 @@
 # CopilotClass1
 
-#Concepts 2 hour
+#Concepts 1 Day
 
-#Discussion and Lab class 2 day
-Concepts for a basic demo class on using Github CoPilot with VS Code And Python
+Concepts for a basic class on using Github CoPilot with VS Code And Python
 
 Each of these steps for video learning, individual modules.
 
