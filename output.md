@@ -44,4 +44,12 @@ Bob is doing well.# HOw am i doing
 
  
 
-It's hard to say without more information.
+It's hard to say without more information.# Now how am I doing?
+
+ ## Philip Matusiak
+
+ ### Windows 
+
+ 
+
+You seem to be doing well! It's great that you are taking the time to ask for feedback and make sure you are on the right track.
