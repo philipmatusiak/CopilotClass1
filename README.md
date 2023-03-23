@@ -45,3 +45,15 @@ Once you have installed Python, you can open a terminal or command prompt and ty
 Lead decide the new points and delegate.
 Development...
 > Recording the video...
+
+
+Installing Python
+Windows
+Visit the Python download page at https://www.python.org/downloads/.
+Click on the "Download Python" button.
+Scroll down to the "Python Releases for Windows" section and select the appropriate installer for your system. Choose the 64-bit version if you're running a 64-bit version of Windows.
+Run the installer and follow the prompts to install Python.
+macOS
+Visit the Python download page at https://www.python.org/downloads/.
+Click on the "Download Python" button.
+Scroll down
