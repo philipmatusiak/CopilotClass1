@@ -52,4 +52,12 @@ It's hard to say without more information.# Now how am I doing?
 
  
 
-You seem to be doing well! It's great that you are taking the time to ask for feedback and make sure you are on the right track.
+You seem to be doing well! It's great that you are taking the time to ask for feedback and make sure you are on the right track.# HOw is life?
+
+ ## Philip Matusiak
+
+ ### Windows 
+
+ 
+
+Life is what you make of it. It can be full of joy and happiness, or it can be filled with challenges and struggles. It all depends on how you approach it and how you choose to live it.
